@@ -1,0 +1,21 @@
+komenda	prompt
+zapisz wizytę	Zaplanuj wizytę pacjenta: data, czas, powód, przypomnienie.
+wypisz receptę	Przygotuj wzór recepty: lek, dawka, sposób, czas trwania. Nie podawaj danych pacjenta.
+streść wywiad	Streść wywiad lekarski w punktach: objawy, czas trwania, leki, alergie.
+zrób notatkę	Napisz notatkę z wizyty w formie SOAP: subiektywne, obiektywne, ocena, plan.
+wyjaśnij wynik	Wyjaśnij wynik badania prostym językiem. Wskaż wartości poza normą.
+sprawdź interakcje	Sprawdź możliwe interakcje wymienionych leków. Wypisz tylko pewne ryzyka.
+przygotuj skierowanie	Przygotuj skierowanie do specjalisty: powód, wyniki, pilność.
+zrób zestawienie	Zestaw wyniki badań w tabeli: data, badanie, wynik, norma.
+napisz zalecenia	Napisz zalecenia dla pacjenta prostym językiem, w krótkich punktach.
+podsumuj epikryzę	Podsumuj epikryzę: rozpoznanie, leczenie, zalecenia po wypisie.
+wyjaśnij objawy	Opisz możliwe przyczyny objawów. Zaznacz, kiedy trzeba pilnie zgłosić się do lekarza.
+zapisz pacjenta	Przygotuj kartę pacjenta do uzupełnienia: dane, wywiad, badania.
+przetłumacz termin	Wyjaśnij termin medyczny po polsku i po angielsku, z przykładem.
+sprawdź dawkowanie	Sprawdź dawkowanie leku dla podanej masy i wieku. Wskaż ograniczenia.
+zrób plan leczenia	Przygotuj plan leczenia: cele, leki, kontrole, kryteria zmiany terapii.
+napisz ulotkę	Napisz ulotkę edukacyjną dla pacjenta, maks. 150 słów.
+policz BMI	Oblicz BMI z podanej masy i wzrostu i podaj interpretację.
+przygotuj raport	Przygotuj raport medyczny: opis, wyniki, wnioski, zalecenia.
+zrób checklistę	Przygotuj checklistę przed zabiegiem: badania, zgody, leki, czego nie jeść.
+napisz podsumowanie	Napisz krótkie podsumowanie stanu pacjenta w trzech zdaniach.

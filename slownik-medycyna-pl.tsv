@@ -37,3 +37,467 @@ enzyme	enzajm	medycyna	enzym
 protein	proutin	medycyna	białko
 diabetes	dajabitis	medycyna	cukrzyca
 hypertension	hajpertenszn	medycyna	nadciśnienie
+heart	hart	medycyna	serce
+lung	lang	medycyna	płuco
+liver	liwer	medycyna	wątroba
+kidney	kidni	medycyna	nerka
+brain	brejn	medycyna	mózg
+stomach	stamak	medycyna	żołądek
+intestine	intestin	medycyna	jelito
+bladder	bladder	medycyna	pęcherz moczowy
+spleen	splin	medycyna	śledziona
+pancreas	pankrias	medycyna	trzustka
+thyroid	tajrojd	medycyna	tarczyca
+gallbladder	goulbladder	medycyna	pęcherzyk żółciowy
+bone	boun	medycyna	kość
+muscle	masl	medycyna	mięsień
+tendon	tendon	medycyna	ścięgno
+ligament	ligament	medycyna	więzadło
+cartilage	kartilidż	medycyna	chrząstka
+joint	dżojnt	medycyna	staw
+spine	spajn	medycyna	kręgosłup
+vertebra	wertebra	medycyna	kręg
+skull	skal	medycyna	czaszka
+rib	rib	medycyna	żebro
+pelvis	pelwis	medycyna	miednica
+artery	artery	medycyna	tętnica
+vein	wejn	medycyna	żyła
+capillary	kapilari	medycyna	naczynie włosowate
+aorta	ejorta	medycyna	aorta
+ventricle	wentrikl	medycyna	komora serca
+atrium	ejtriam	medycyna	przedsionek
+valve	walw	medycyna	zastawka
+plasma	plazma	medycyna	osocze
+platelet	plejtlet	medycyna	płytka krwi
+hemoglobin	hemoglobin	medycyna	hemoglobina
+red blood cell	red blad sel	medycyna	erytrocyt
+white blood cell	wajt blad sel	medycyna	leukocyt
+lymph node	limf nod	medycyna	węzeł chłonny
+lymphatic	limfatik	medycyna	limfatyczny
+immune system	imjun system	medycyna	układ odpornościowy
+antibody	antybodi	medycyna	przeciwciało
+antigen	antydżen	medycyna	antygen
+virus	wajrus	medycyna	wirus
+bacteria	bakterija	medycyna	bakteria
+fungus	fandżas	medycyna	grzyb
+parasite	parasajt	medycyna	pasożyt
+sepsis	sepsis	medycyna	posocznica
+pneumonia	niumonia	medycyna	zapalenie płuc
+bronchitis	bronkajtis	medycyna	zapalenie oskrzeli
+asthma	asma	medycyna	astma
+influenza	influenza	medycyna	grypa
+migraine	majgrejn	medycyna	migrena
+epilepsy	epilepsi	medycyna	padaczka
+stroke	strok	medycyna	udar
+dementia	dementia	medycyna	otępienie
+Alzheimer	altshajmer	medycyna	choroba Alzheimera
+Parkinson	parkinson	medycyna	choroba Parkinsona
+arthritis	arsrajtis	medycyna	zapalenie stawów
+osteoporosis	ostioporosis	medycyna	osteoporoza
+anemia	anemia	medycyna	anemia
+leukemia	lukemija	medycyna	białaczka
+lymphoma	limfoma	medycyna	chłoniak
+melanoma	melanoma	medycyna	czerniak
+carcinoma	karcinoma	medycyna	rak
+tumor	tjumor	medycyna	guz
+metastasis	metastazis	medycyna	przerzut
+remission	remiszn	medycyna	remisja
+relapse	rilaps	medycyna	nawrót
+diagnosis test	dajagnosis test	medycyna	badanie diagnostyczne
+blood test	blad test	medycyna	badanie krwi
+urine test	jurin test	medycyna	badanie moczu
+X-ray	eks rej	medycyna	prześwietlenie
+ultrasound	altrasaund	medycyna	USG
+endoscopy	endoskopi	medycyna	endoskopia
+colonoscopy	kolonoskopi	medycyna	kolonoskopia
+biopsy sample	bajopsi sampl	medycyna	próbka do biopsji
+echocardiogram	ekokardiogram	medycyna	echo serca
+electrocardiogram	elektrokardiogram	medycyna	EKG
+electroencephalogram	elektroensefalogram	medycyna	EEG
+spirometry	spirometri	medycyna	spirometria
+pulse oximeter	pals oksimiter	medycyna	pulsoksymetr
+blood pressure cuff	blad preszer kaf	medycyna	mankiet do ciśnieniomierza
+stethoscope	stetoskop	medycyna	stetoskop
+thermometer	termometer	medycyna	termometr
+syringe	syring	medycyna	strzykawka
+needle	nidl	medycyna	igła
+catheter	kaeter	medycyna	cewnik
+drip	drip	medycyna	kroplówka
+IV line	aj wi lajn	medycyna	wkłucie dożylne
+bandage	bandaż	medycyna	bandaż
+gauze	gaz	medycyna	gaza
+plaster	plaster	medycyna	plaster
+tourniquet	turniket	medycyna	opaska uciskowa
+defibrillator	defibrylator	medycyna	defibrylator
+ventilator	wentylator	medycyna	respirator
+oxygen mask	oksidżen mask	medycyna	maska tlenowa
+wheelchair	łilczer	medycyna	wózek inwalidzki
+stretcher	streczer	medycyna	nosze
+crutch	kratch	medycyna	kula
+brace	bres	medycyna	orteza
+cast	kast	medycyna	gips
+prosthesis	prostezis	medycyna	proteza
+implant	implant	medycyna	implant
+pacemaker	pejsmejker	medycyna	stymulator serca
+insulin pump	insulin pamp	medycyna	pompa insulinowa
+glucose meter	glukous miter	medycyna	glukometr
+inhaler	inhejler	medycyna	inhalator
+nebulizer	nebjulajzer	medycyna	nebulizator
+antiseptic	antysepti	medycyna	środek antyseptyczny
+disinfectant	dysinfektant	medycyna	środek dezynfekujący
+sterile	steril	medycyna	jałowy
+sterilization	sterylizejszn	medycyna	sterylizacja
+quarantine	kwarantin	medycyna	kwarantanna
+isolation	ajsolejszn	medycyna	izolacja
+vaccination	waksynejszn	medycyna	szczepienie
+booster	buster	medycyna	dawka przypominająca
+dose	dous	medycyna	dawka
+tablet	tablet	medycyna	tabletka
+capsule	kapsjul	medycyna	kapsułka
+ointment	ojntment	medycyna	maść
+drops	drops	medycyna	krople
+suppository	saprozitori	medycyna	czopek
+injection	indżekszn	medycyna	zastrzyk
+infusion	infjużn	medycyna	wlew
+anesthetic	anestetik	medycyna	znieczulający
+analgesic	analdżezik	medycyna	przeciwbólowy
+painkiller	pejnkiler	medycyna	środek przeciwbólowy
+antipyretic	antypajretik	medycyna	przeciwgorączkowy
+antihistamine	antyhistamin	medycyna	lek przeciwhistaminowy
+steroid	sterojd	medycyna	sterydy
+hormone	hormon	medycyna	hormon
+estrogen	estrodżen	medycyna	estrogen
+testosterone	testosteron	medycyna	testosteron
+cortisol	kortizol	medycyna	kortyzol
+adrenaline	adrenalin	medycyna	adrenalina
+dopamine	dopamin	medycyna	dopamina
+serotonin	serotonin	medycyna	serotonina
+melatonin	melatonin	medycyna	melatonina
+antidepressant	antydepresant	medycyna	lek przeciwdepresyjny
+sedative	sedatiw	medycyna	środek uspokajający
+stimulant	stimjulant	medycyna	środek pobudzający
+opioid	opioid	medycyna	opioid
+morphine	morfin	medycyna	morfina
+aspirin	aspiryn	medycyna	aspiryna
+ibuprofen	ajbjuprofen	medycyna	ibuprofen
+paracetamol	paracetamol	medycyna	paracetamol
+penicillin	penicylin	medycyna	penicylina
+statin	statin	medycyna	statyna
+beta blocker	bejta blokr	medycyna	beta-bloker
+diuretic	dajuretik	medycyna	moczopędny
+anticoagulant	antykoagulant	medycyna	lek przeciwzakrzepowy
+chemotherapy	kemoterapi	medycyna	chemioterapia
+radiotherapy	rejdioterapi	medycyna	radioterapia
+immunotherapy	imjunoterapi	medycyna	immunoterapia
+physiotherapy	fizioterapi	medycyna	fizjoterapia
+rehabilitation	rehabilitejszn	medycyna	rehabilitacja
+occupational therapy	okjupejszenal terapi	medycyna	terapia zajęciowa
+psychotherapy	sajkoterapi	medycyna	psychoterapia
+counseling	kaunsling	medycyna	poradnictwo
+psychiatrist	sajkajatryst	medycyna	psychiatra
+psychologist	sajkolodżist	medycyna	psycholog
+neurologist	njurolodżist	medycyna	neurolog
+cardiologist	kardiolodżist	medycyna	kardiolog
+dermatologist	dermatolodżist	medycyna	dermatolog
+gynecologist	gajnekolodżist	medycyna	ginekolog
+urologist	juroledżist	medycyna	urolog
+ophthalmologist	ofthalmolodżist	medycyna	okulista
+otolaryngologist	otolarynglodżist	medycyna	laryngolog
+orthopedist	ortopedist	medycyna	ortopeda
+surgeon	serdżen	medycyna	chirurg
+anesthesiologist	anestezjolodżist	medycyna	anestezjolog
+pediatrician	pediatrician	medycyna	pediatra
+paramedic	paramedik	medycyna	ratownik medyczny
+nurse	ners	medycyna	pielęgniarka
+midwife	midwaif	medycyna	położna
+pharmacist	farmasist	medycyna	farmaceuta
+radiologist	rejdiolodżist	medycyna	radiolog
+pathologist	patolodżist	medycyna	patolog
+dentist	dentist	medycyna	dentysta
+physician	fizyszn	medycyna	lekarz
+resident	rezydent	medycyna	rezydent
+intern	interm	medycyna	stażysta
+ward	łord	medycyna	oddział
+ICU	aj si ju	medycyna	oddział intensywnej terapii
+emergency room	imerdżensi rum	medycyna	izba przyjęć
+operating room	operejting rum	medycyna	sala operacyjna
+recovery room	rikawery rum	medycyna	sala wybudzeń
+waiting room	łejting rum	medycyna	poczekalnia
+reception	resepszn	medycyna	rejestracja
+discharge	diczardż	medycyna	wypis
+admission	admiszn	medycyna	przyjęcie
+referral	rifer	medycyna	skierowanie
+prescription drug	preskripszn drag	medycyna	lek na receptę
+over the counter	over de kaunter	medycyna	bez recepty
+medical record	medikal rekord	medycyna	dokumentacja medyczna
+medical history	medikal histori	medycyna	wywiad lekarski
+consent form	konsent form	medycyna	zgoda pacjenta
+informed consent	informd konsent	medycyna	świadoma zgoda
+health insurance	helt inszurans	medycyna	ubezpieczenie zdrowotne
+sick leave	sik liw	medycyna	zwolnienie lekarskie
+abdomen	abdomen	medycyna	jama brzuszna
+thorax	torax	medycyna	klatka piersiowa
+pelvic floor	pelwik flor	medycyna	dno miednicy
+groin	grojn	medycyna	pachwina
+armpit	armpit	medycyna	pacha
+elbow	elbou	medycyna	łokieć
+wrist	rist	medycyna	nadgarstek
+knuckle	naklkl	medycyna	staw palców
+kneecap	nikkap	medycyna	rzepka
+ankle	enkl	medycyna	kostka
+heel	hil	medycyna	pięta
+sole	soul	medycyna	podeszwa
+toe	tou	medycyna	palec u nogi
+finger	fingr	medycyna	palec
+palm	pam	medycyna	dłoń
+forearm	forarm	medycyna	przedramię
+shoulder blade	szołder blejd	medycyna	łopatka
+collarbone	kolarboun	medycyna	obojczyk
+jaw	dżo	medycyna	szczęka
+tooth	tuf	medycyna	ząb
+gum	gam	medycyna	dziąsło
+tongue	tang	medycyna	język
+throat	srout	medycyna	gardło
+larynx	larynks	medycyna	krtań
+trachea	trejkia	medycyna	tchawica
+esophagus	esofagus	medycyna	przełyk
+duodenum	dżuodinum	medycyna	dwunastnica
+colon	kołon	medycyna	okrężnica
+rectum	rektum	medycyna	odbytnica
+appendix	apendiks	medycyna	wyrostek robaczkowy
+ovary	owari	medycyna	jajnik
+uterus	juterus	medycyna	macica
+prostate	prostejt	medycyna	prostata
+testicle	testikl	medycyna	jądro
+cervix	serwiks	medycyna	szyjka macicy
+placenta	placenta	medycyna	łożysko
+embryo	embrijou	medycyna	zarodek
+fetus	fitus	medycyna	płód
+neonate	njounejt	medycyna	noworodek
+infant	infant	medycyna	niemowlę
+toddler	todler	medycyna	małe dziecko
+adolescent	adolesnt	medycyna	nastolatek
+elderly	eldrli	medycyna	osoba starsza
+retina	retina	medycyna	siatkówka
+cornea	kornija	medycyna	rogówka
+lens	lenz	medycyna	soczewka
+optic nerve	optik nerw	medycyna	nerw wzrokowy
+eardrum	idram	medycyna	błona bębenkowa
+cochlea	kokliea	medycyna	ślimak
+vestibule	westibjul	medycyna	przedsionek ucha
+eustachian tube	justejszn tjub	medycyna	trąbka słuchowa
+nasal cavity	nejzal kawiti	medycyna	jama nosowa
+sinus	sajnas	medycyna	zatoka
+epiglottis	epiglotis	medycyna	nagłośnia
+spinal cord	spinl kord	medycyna	rdzeń kręgowy
+nerve	nerw	medycyna	nerw
+neuron	njuron	medycyna	neuron
+synapse	synaps	medycyna	synapsa
+axon	aksion	medycyna	akson
+dendrite	dendrajt	medycyna	dendryt
+cerebellum	serebelum	medycyna	móżdżek
+hippocampus	hipokampus	medycyna	hipokamp
+cerebrum	serebrum	medycyna	kora mózgowa
+meninges	menindżiz	medycyna	opony mózgowe
+meningitis	meninżajtis	medycyna	zapalenie opon mózgowych
+encephalitis	enkefalajtis	medycyna	zapalenie mózgu
+concussion	konkaszn	medycyna	wstrząśnienie mózgu
+aneurysm	aniurizm	medycyna	tętniak
+hemorrhage	hemoridż	medycyna	krwotok
+thrombosis	trombozis	medycyna	zakrzepica
+embolism	embolizm	medycyna	zator
+arrhythmia	arytmia	medycyna	arytmia
+angina	andżajna	medycyna	dusznica bolesna
+heart attack	hart atak	medycyna	zawał serca
+heart failure	hart fejlior	medycyna	niewydolność serca
+cardiac arrest	kardiak arest	medycyna	zatrzymanie krążenia
+hypotension	hajpotenszn	medycyna	niedociśnienie
+bradycardia	bradykardia	medycyna	bradykardia
+tachycardia	takikardia	medycyna	tachykardia
+cholesterol	kolesterol	medycyna	cholesterol
+triglyceride	trajglicerajd	medycyna	trójglicerydy
+bronchus	bronkus	medycyna	oskrzele
+alveoli	alweoli	medycyna	pęcherzyki płucne
+pleura	plura	medycyna	opłucna
+pleurisy	plurisi	medycyna	zapalenie opłucnej
+emphysema	emfizema	medycyna	rozedma
+tuberculosis	tiuberkjulozis	medycyna	gruźlica
+COVID-19	kovid najnti	medycyna	COVID-19
+coronavirus	koronawirus	medycyna	koronawirus
+flu shot	flu szot	medycyna	szczepionka przeciw grypie
+rabies	rejbiz	medycyna	wścieklizna
+tetanus	tetanus	medycyna	tężec
+measles	misls	medycyna	odra
+mumps	mamps	medycyna	świnka
+chickenpox	czikenpoks	medycyna	ospa wietrzna
+herpes	herpiz	medycyna	opryszczka
+hepatitis	hepatajtis	medycyna	zapalenie wątroby
+HIV	ejczajwi	medycyna	HIV
+syphilis	sifilis	medycyna	kiła
+gonorrhea	gonorea	medycyna	rzeżączka
+salmonella	salmonela	medycyna	salmonella
+E. coli	i kołaj	medycyna	E. coli
+staphylococcus	stafilokokus	medycyna	gronkowiec
+streptococcus	streptokokus	medycyna	paciorkowiec
+fungal infection	fandżal infekszn	medycyna	zakażenie grzybicze
+candida	kandida	medycyna	kandyda
+scabies	skejbiz	medycyna	świerzb
+lice	lajs	medycyna	wszy
+ringworm	ringłorm	medycyna	grzybica skóry
+eczema	ekzema	medycyna	egzema
+psoriasis	soriasis	medycyna	łuszczyca
+acne	akne	medycyna	trądzik
+rash	resz	medycyna	wysypka
+hives	hajwz	medycyna	pokrzywka
+burn	bern	medycyna	oparzenie
+frostbite	frostbajt	medycyna	odmrożenie
+wound	wund	medycyna	rana
+laceration	laseszn	medycyna	rozcięcie
+fracture	frakczer	medycyna	złamanie
+sprain	sprejn	medycyna	skręcenie
+dislocation	dislokejszn	medycyna	zwichnięcie
+concussion test	konkaszn test	medycyna	test wstrząśnienia
+bruise	bruz	medycyna	siniak
+blister	blister	medycyna	pęcherz
+scar	skar	medycyna	blizna
+keloid	keloid	medycyna	bliznowiec
+ulcer	alser	medycyna	wrzód
+gangrene	gengrin	medycyna	zgorzel
+abscess	abses	medycyna	ropień
+cyst	sist	medycyna	torbiel
+polyp	polip	medycyna	polip
+hernia	hernia	medycyna	przepuklina
+hemorrhoids	hemoroidz	medycyna	hemoroidy
+constipation	konstypejszn	medycyna	zaparcie
+diarrhea	dajarija	medycyna	biegunka
+nausea	nozija	medycyna	nudności
+vomiting	womiting	medycyna	wymioty
+heartburn	hartbern	medycyna	zgaga
+indigestion	indidżesczn	medycyna	niestrawność
+reflux	riflaks	medycyna	refluks
+gastritis	gastrajtis	medycyna	zapalenie żołądka
+hepatic	hepatik	medycyna	wątrobowy
+jaundice	dżondis	medycyna	żółtaczka
+cirrhosis	cyrozis	medycyna	marskość
+pancreatitis	pankreatajtis	medycyna	zapalenie trzustki
+appendicitis	apendisajtis	medycyna	zapalenie wyrostka
+peritonitis	peritonajtis	medycyna	zapalenie otrzewnej
+kidney stone	kidniston	medycyna	kamień nerkowy
+urinary tract infection	jurynari trakt infekszn	medycyna	zakażenie dróg moczowych
+incontinence	inkontinens	medycyna	nietrzymanie moczu
+dialysis	dajalisis	medycyna	dializa
+transplant	transplant	medycyna	przeszczep
+donor	douner	medycyna	dawca
+organ	organ	medycyna	narząd
+blood type	blad tajp	medycyna	grupa krwi
+transfusion	transfjużn	medycyna	transfuzja
+plasma donation	plazma donejszn	medycyna	oddanie osocza
+platelets donation	plejtlets donejszn	medycyna	oddanie płytek
+bone marrow	boun marou	medycyna	szpik kostny
+stem cell	stem sel	medycyna	komórka macierzysta
+gene therapy	dżin terapi	medycyna	terapia genowa
+antibiotic resistance	antybajotik rezistans	medycyna	oporność na antybiotyki
+dosage error	dousedż erer	medycyna	błąd dawkowania
+adverse reaction	adwers riakszn	medycyna	reakcja niepożądana
+side effect	sajd efekt	medycyna	efekt uboczny
+allergic reaction	alerdżik riakszn	medycyna	reakcja alergiczna
+overdose	owerdous	medycyna	przedawkowanie
+withdrawal	widrołal	medycyna	odstawienie
+addiction	adikszn	medycyna	uzależnienie
+detox	detoks	medycyna	detoks
+palliative care	paliatiw ker	medycyna	opieka paliatywna
+hospice	hospis	medycyna	hospicjum
+mortality	mortalyti	medycyna	śmiertelność
+morbidity	morbidyti	medycyna	zachorowalność
+epidemic	epidemik	medycyna	epidemia
+pandemic	pandemik	medycyna	pandemia
+endemic	endemik	medycyna	endemia
+outbreak	autbrejk	medycyna	ognisko zakażenia
+contact tracing	kontakt trejsing	medycyna	śledzenie kontaktów
+mask mandate	mask mandejt	medycyna	obowiązek noszenia maseczek
+health check	helt czek	medycyna	badanie kontrolne
+annual checkup	anual czekap	medycyna	coroczne badanie
+screening	skrinig	medycyna	badanie przesiewowe
+mammography	mamografi	medycyna	mammografia
+pap smear	pap smir	medycyna	cytologia
+PSA test	pi es ej test	medycyna	badanie PSA
+glucose tolerance test	glukous tolerans test	medycyna	test obciążenia glukozą
+cholesterol test	kolesterol test	medycyna	badanie cholesterolu
+EKG machine	i ka dżi maszin	medycyna	aparat EKG
+MRI scanner	em ar aj skaner	medycyna	rezonans magnetyczny
+CT machine	si ti maszin	medycyna	tomograf
+dialysis machine	dajalisis maszin	medycyna	aparat do dializ
+ventilator settings	wentylejtor setingz	medycyna	nastawy respiratora
+oxygen saturation	oksidżen saturejszn	medycyna	saturacja tlenem
+heart rate	hart rejt	medycyna	tętno
+respiratory rate	respiratori rejt	medycyna	częstość oddechów
+body temperature	bodi temperczer	medycyna	temperatura ciała
+fever	fiwer	medycyna	gorączka
+chills	czilz	medycyna	dreszcze
+fatigue	fatig	medycyna	zmęczenie
+dizziness	dizinis	medycyna	zawroty głowy
+fainting	fejnting	medycyna	omdlenie
+seizure	sizer	medycyna	napad
+tremor	tremer	medycyna	drżenie
+numbness	namnes	medycyna	drętwienie
+tingling	tingling	medycyna	mrowienie
+weakness	wiknes	medycyna	osłabienie
+swelling	suelling	medycyna	obrzęk
+itch	icz	medycyna	swędzenie
+cough	kof	medycyna	kaszel
+sneeze	sniz	medycyna	kichanie
+wheeze	łiz	medycyna	świszczący oddech
+shortness of breath	szortnes of bret	medycyna	duszność
+chest pain	czest pejn	medycyna	ból w klatce piersiowej
+back pain	bak pejn	medycyna	ból pleców
+joint pain	dżojnt pejn	medycyna	ból stawów
+headache	hedejk	medycyna	ból głowy
+sore throat	sor srout	medycyna	ból gardła
+earache	irejk	medycyna	ból ucha
+toothache	tuthejk	medycyna	ból zęba
+stomachache	stamakejk	medycyna	ból brzucha
+rash on skin	resz on skin	medycyna	wysypka na skórze
+bleeding	bliding	medycyna	krwawienie
+bruising	bruzing	medycyna	sińce
+jaundice sign	dżondis sajn	medycyna	objaw żółtaczki
+weight loss	lejt los	medycyna	utrata masy ciała
+weight gain	lejt gejn	medycyna	przyrost masy ciała
+night sweats	najt swets	medycyna	poty nocne
+loss of appetite	los of apetajt	medycyna	utrata apetytu
+insomnia	insomnia	medycyna	bezsenność
+sleep apnea	slip apnea	medycyna	bezdech senny
+hyperthyroidism	hajpertajrojdizm	medycyna	nadczynność tarczycy
+hypothyroidism	hajpotajrojdizm	medycyna	niedoczynność tarczycy
+goiter	gojter	medycyna	wole
+adrenal gland	adrinal glend	medycyna	nadnercze
+pituitary gland	pitjuitari glend	medycyna	przysadka mózgowa
+hypoglycemia	hajpogliseemija	medycyna	hipoglikemia
+hyperglycemia	hajperglisemija	medycyna	hiperglikemia
+ketoacidosis	kitoacidosis	medycyna	kwasica ketonowa
+dehydration	dihajdrejszn	medycyna	odwodnienie
+electrolyte	elektrolajt	medycyna	elektrolit
+sodium	sodjum	medycyna	sód
+potassium	potasjum	medycyna	potas
+calcium	kalcjum	medycyna	wapń
+magnesium	magnisjum	medycyna	magnez
+iron deficiency	ajern defisensi	medycyna	niedobór żelaza
+vitamin D	witamin di	medycyna	witamina D
+vitamin deficiency	witamin defisensi	medycyna	niedobór witamin
+malnutrition	malnjutrisjon	medycyna	niedożywienie
+obesity	obesiti	medycyna	otyłość
+metabolism	metabolizm	medycyna	metabolizm
+gout	gaut	medycyna	dna moczanowa
+lupus	lupus	medycyna	toczeń
+multiple sclerosis	maltipl sklerozis	medycyna	stwardnienie rozsiane
+muscular dystrophy	maskjular dystrofi	medycyna	dystrofia mięśniowa
+cerebral palsy	serebral polzi	medycyna	porażenie mózgowe
+autism	autyzm	medycyna	autyzm
+ADHD	ej di ej czi di	medycyna	ADHD
+bipolar disorder	bajpołar disordr	medycyna	choroba dwubiegunowa
+schizophrenia	skicofrenia	medycyna	schizofrenia
+depression	depresz	medycyna	depresja
+anxiety	anksajeti	medycyna	lęk
+panic attack	panik atak	medycyna	atak paniki
+OCD	o si di	medycyna	zaburzenie obsesyjno-kompulsyjne
+PTSD	pi ti es di	medycyna	zespół stresu pourazowego
+burnout	bernałt	medycyna	wypalenie zawodowe
